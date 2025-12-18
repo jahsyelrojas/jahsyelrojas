@@ -7,7 +7,7 @@
 
 # ✨ **Jahsyel Rojas**
 
-### *Software Engineer · Aerospace Systems · Robotics & GNC Enthusiast*
+### *Software Engineer · Aerospace Systems · Electronics & GNC Enthusiast*
 
 🚀 *Aspiring to contribute to systems at the intersection of software, autonomy, and flight.*
 
