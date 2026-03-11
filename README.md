@@ -15,12 +15,17 @@
 
 ---
 
+## 💼 **My Portfolio** 
+* https://jahsyelrojas.github.io/My-Portfolio/
+ 
+ ---
+
 ## 🛠️ **Experience**
 
-* Real-time telemetry, control, and automation systems
-* Autonomous robotics & embedded systems (sensors, microcontrollers)
-* Backend engineering with **Python · Docker · MQTT · Databases**
-* Aerospace projects in **Avionics · GNC · Propulsion · Simulation**
+* Real-time telemetry, control, and navigation systems
+* Embedded systems (sensors, microcontrollers, RTOS)
+* Backend engineering with **Python ·JAVAScript · Docker · MQTT ·TCP/IP**
+* Aerospace projects in **Avionics · GNC/Navigation Systems**
 
 ---
 
@@ -36,11 +41,11 @@
 
 ### 🧭 Currently Navigating
 
-* **GNC · ROS2 · Control Theory**
+* **GNC · Flight Software · Control Theory**
 
 ### 🧩 Ask Me About
 
-* Embedded systems · Automation · Backend development · Aerospace tech
+* Embedded systems · Avionics ·Navigation · Aerospace tech
 
 ### ⚡ Fun Fact
 
