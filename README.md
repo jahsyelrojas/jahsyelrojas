@@ -33,15 +33,15 @@
 
 ### 🤝 Collaborate On
 
-* Aerospace software · Robotics · Embedded systems
+* Aerospace software · Embedded systems
 
 ### 🛰️ Seeking Help With
 
-* Advanced flight software & high-performance simulation frameworks
+* Advanced flight software & high-performance GNC aplications & fundamentals
 
 ### 🧭 Currently Navigating
 
-* **GNC · Flight Software · Control Theory**
+* **GNSS Theory · Flight Software · Control Theory**
 
 ### 🧩 Ask Me About
 
